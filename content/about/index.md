@@ -2,18 +2,14 @@
 title: 'About Me'
 avatar: 'me.jpeg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - 
+  - Data Visualisation
+  - Data Analytics
   - Neural Networks
   - Machine Learning
 ---
 
-Hello! Interestingly, I have been a student of Bio-Maths in my high school and got introduced to programming in my freshman year at [BIT Mesra](https://www.bitmesra.ac.in/). Since then, I started developing Web and ML projects, and completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Hello! This is Sibi Vishtan, after Learning in the development environment there was data science which was totally of analytics and which can be used totally in finance sector too. So I started learning more about market analysis and crypto markets, using data analysis and studying the market is always intresting and fun for me to learn.
 
-Today, I'm currently working as a scrum developer responsible for several microservices code development and testing in Amdocs Technology Billing and RTB project.
+I'm currently final year undergrad from [KLN College of Engineering](https://klnce.edu) majoring in Computer science and engineering with aggregate of 85.0% from (2018-2022). I have done several projects using java and python and this is my first time I've used ReactJs. And Planning to start a new carrer from data science and Artificial intelligence.
 
-I have also been awarded as Winner in Design Thinking Hackathon and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1laynNsd9hIqxL-imT8dkAWqq7ZO4hj1a/view?usp=sharing) by Amdocs.
-
-Here is a list of the technologies that I work with in Amdocs!
+Here is a list of the technologies that I have learnt!
